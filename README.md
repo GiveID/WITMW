@@ -25,7 +25,7 @@
 
 ## 📥 Installation & Usage
 ### 1️⃣ Download & Run
-- **[Download the latest release](https://github.com/your-repo-name/releases)**
+- **[Download the latest release](https://github.com/WITMW/releases)**
 - Extract the `.zip` and run **`WITMW.exe`**
 
 ### 2️⃣ Command Line Usage
